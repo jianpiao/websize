@@ -322,7 +322,7 @@ transform:rotate(720deg);
 .box3,
 .box4,
 .box5{
-    background-size: 100% 200px;
+    background-size: 100% auto;
 }
 
 .main-i,.main,.slider{
